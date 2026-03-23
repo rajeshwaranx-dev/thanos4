@@ -54,7 +54,7 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'vTUjvxhzyQVkN2E1')
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+1PIW1RmgAcFlYjRl')
 
 # Verification
-IS_VERIFY = is_enabled('IS_VERIFY', True)
+IS_VERIFY = is_enabled('IS_VERIFY', False)
 #---------------------------------------------------------------
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/Tutorial_SRK")
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/Tutorial_SRK")
